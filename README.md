@@ -5,6 +5,5 @@ needs cookies, if you got firefox you're good. Otherwise extract your cookies in
 
 
 Uses: 
-https://github.com/mikf/gallery-dl
-https://github.com/yt-dlp/yt-dlp
+https://github.com/mikf/gallery-dl, https://github.com/yt-dlp/yt-dlp
 to download stuff
